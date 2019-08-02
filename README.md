@@ -1,2 +1,2 @@
 # MrmApp-iOS
-MrmApp for iOS
+MRM App for iOS
